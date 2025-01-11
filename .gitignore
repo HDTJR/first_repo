@@ -6,6 +6,9 @@
 *.exe
 *.o
 *.so
+venv/
+.github/
+*.pyc
 
 # Packages #
 ############
