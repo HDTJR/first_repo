@@ -9,6 +9,8 @@
 venv/
 .github/
 *.pyc
+node_modules/
+dist/
 
 # Packages #
 ############
